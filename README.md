@@ -4,9 +4,11 @@ To use this hacking script you gonna need a external wireless card that can supp
 
 (just in the case that you dont have one in youre computer).
 
-By another way when you do the attacks you have the chance to see the attacks in real time with a sniffer.
+If you like see the chaos that are you doing with the attacks when the program do the attacks you have the chance to see the attacks in real time with a sniffer.
 
+_____________________
 ###REQUERIMENTS###
+---------------------
 
 You have to get installed:
 
@@ -20,10 +22,11 @@ Debian install
 
 ---> sudo apt install (tool) -y
 
-
+_________________________
 ####Tool installation####
+-------------------------
 
 git clone https://github.com/Ebooslilhacker/WiFiCrasher.git ---> Downloads the repository.
-cd WiFiCrasher ---> You main access to the file.
+cd WiFiCrasher ---> You get access to the file.
 chmod +x WiFiCrasher ----> Give permissions to execute the file.
 sudo sh WiFiCrasher.sh ----> Execution of the file like super user (Root).
