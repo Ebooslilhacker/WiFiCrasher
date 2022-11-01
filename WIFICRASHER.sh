@@ -28,9 +28,10 @@ echo  '''
 }                                                       
 
 
- #### Variables ####
+#### Variables ####
 
-  Interface=wlo1
+#### Youre network card interface ####
+  Interface= 
   wifiInterfaceMon="${Interface}mon"
   AirMonitor=airmon-ng
   AirDumper=airodump-ng
