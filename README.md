@@ -27,6 +27,9 @@ _________________________
 -------------------------
 
 git clone https://github.com/Ebooslilhacker/WiFiCrasher.git ---> Downloads the repository.
+
 cd WiFiCrasher ---> You get access to the file.
+
 chmod +x WiFiCrasher ----> Give permissions to execute the file.
+
 sudo sh WiFiCrasher.sh ----> Execution of the file like super user (Root).
