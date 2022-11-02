@@ -21,9 +21,7 @@ aircrack-ng suite
 mdk3 
 
 
-Debian install
-
----> sudo apt install (tool) -y
+Debian distributions install   ---> sudo apt install (tool) -y
 
 _________________________
 ####Tool installation####
