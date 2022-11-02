@@ -13,8 +13,11 @@ _____________________
 You have to get installed:
 
 git
+
 tcpdump 
+
 aircrack-ng suite
+
 mdk3 
 
 
