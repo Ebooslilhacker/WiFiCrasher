@@ -33,4 +33,4 @@ cd WiFiCrasher ---> You get access to the file.
 
 chmod +x WiFiCrasher ----> Give permissions to execute the file.
 
-sudo sh WiFiCrasher.sh ----> Execution of the file like super user (Root).
+sudo sh WIFICRASHER.sh ----> Execution of the file like super user (Root).
